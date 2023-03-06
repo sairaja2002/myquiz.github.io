@@ -1,0 +1,23 @@
+#highScoresList{
+    list-style: none;
+    padding-left: 0;
+    margin-bottom: 4rem;
+    
+    color: #F806CC;
+}
+.ab{
+    background-color: #570A57;
+    width: 25rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border-radius: 1rem;
+}
+.high-score{
+    font-size: 2.8rem;
+    margin-bottom: 0.5rem;
+    
+    color: #F806CC;
+}
+.high-score:hover{
+    transform: scale(1.025);
+}
